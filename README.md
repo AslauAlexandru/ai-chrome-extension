@@ -1,4 +1,4 @@
-# AI Chrome Extension
+# Week 13 Headstarter Accelerator Project 13 AI Chrome Extension
 
 ## AI Chrome Extension
 For this project, you are tasked with building an AI Chrome Extension that enables text autocomplete on any website.
