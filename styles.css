@@ -1,0 +1,10 @@
+.ai-autocomplete-suggestion {
+    position: absolute;
+    z-index: 9999;
+    background-color: rgba(200, 200, 200, 0.8);
+    padding: 2px 4px;
+    border-radius: 2px;
+    font: inherit;
+    color: #666;
+    pointer-events: none;
+  }
