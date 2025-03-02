@@ -1,7 +1,6 @@
 # Week 13 Headstarter Accelerator Project 13 AI Chrome Extension
-## Project statement
-
 ## AI Chrome Extension
+## Project statement
 For this project, you are tasked with building an AI Chrome Extension that enables text autocomplete on any website.
 
 For this project, you will be building a Chrome Extension that enables autocomplete for text fields on any website. Imagine you are writing a blog, filling out a form, or writing anything on a website, and you have an AI copilot to suggest completions for all the text you write, similar to what Cursor does with code.
